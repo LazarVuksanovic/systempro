@@ -1,0 +1,38 @@
+h1 {
+    color: #EDC9AF;
+    width: 10px;
+    font-size: 400%;
+    text-align: center;
+}
+
+h2 {
+    color: #C19A6B;
+    font-size: 400%;
+}
+
+body {
+    background-color: #CC474B;
+}
+
+#mala{
+    border: #CC474B;
+    width: 400px;
+    margin-left: 500px;
+    margin-right: 760px;
+}
+
+#velika{
+    border: #CC474B;
+    width: 1500px; 
+    margin: auto;
+}
+
+h3{
+    color: rgb(255, 255, 255);
+    font-size: 200%;
+}
+
+
+
+
+
